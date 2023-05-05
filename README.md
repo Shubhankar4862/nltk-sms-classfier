@@ -9,4 +9,7 @@ Quickly get started with [Python](https://www.python.org/) using this starter!
 *  > >$ files
 * >  >$ find your way
 
-## Complete Python built project 
+### Complete Python built project 
+Non deployed yet 
+full version still pending
+coming soon ...
